@@ -9,15 +9,42 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        
+        TabView {
+            HomeView()
+                .tabItem{
+                    Image(systemName: "house")
+                    Text("Accueil")
+                }
+            NewsView()
+                .tabItem{
+                    Image(systemName: "books.vertical.fill")
+                    Text("News")
+                }
+            TutoView()
+                .tabItem{
+                    Image(systemName: "graduationcap.fill")
+                    Text("Tutoriels")
+                }
+            Home()
+                .tabItem{
+                    Image(systemName: "calendar")
+                    Text("EDT")
+                }
+            RessourceView()
+                .tabItem{
+                    Image(systemName: "tray.full.fill")
+                    Text("Ressources")
+                }
         }
-        .padding()
+        .accentColor(Color("mmiColor"))
+        .preferredColorScheme(.light)
+            
+        
+        
     }
 }
+        
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {

@@ -7,18 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F10241AC292E9792000A008B /* TutoAv.swift in Sources */ = {isa = PBXBuildFile; fileRef = F10241AB292E9792000A008B /* TutoAv.swift */; };
+		F1208AF3290A8F3E00B11A13 /* TutoPDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1208AF2290A8F3E00B11A13 /* TutoPDetailView.swift */; };
+		F13138C32926724B0076D9F9 /* CreditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F13138C22926724B0076D9F9 /* CreditView.swift */; };
 		F14DA8DD28FC56BD0011A411 /* Le_GuideApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14DA8DC28FC56BD0011A411 /* Le_GuideApp.swift */; };
 		F14DA8DF28FC56BD0011A411 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14DA8DE28FC56BD0011A411 /* ContentView.swift */; };
 		F14DA8E128FC56BE0011A411 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F14DA8E028FC56BE0011A411 /* Assets.xcassets */; };
 		F14DA8E428FC56BE0011A411 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F14DA8E328FC56BE0011A411 /* Preview Assets.xcassets */; };
+		F14DA8EB28FC5E010011A411 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14DA8EA28FC5E010011A411 /* HomeView.swift */; };
+		F14DA8ED28FC5E230011A411 /* TutoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14DA8EC28FC5E230011A411 /* TutoView.swift */; };
+		F14DA8EF28FC5E4F0011A411 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14DA8EE28FC5E4F0011A411 /* NewsView.swift */; };
+		F14DA8F128FC62620011A411 /* News.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14DA8F028FC62620011A411 /* News.swift */; };
+		F14DA8F328FC66750011A411 /* NewsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F14DA8F228FC66750011A411 /* NewsDetailView.swift */; };
+		F1822A452914073400260A8B /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1822A442914073400260A8B /* Task.swift */; };
+		F1822A502914204A00260A8B /* GroupsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1822A4F2914204A00260A8B /* GroupsView.swift */; };
+		F18444FD29028AF1008E3324 /* RessourceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F18444FC29028AF1008E3324 /* RessourceView.swift */; };
+		F1B30ED0290E818600D6E70A /* TutoCSS.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B30ECF290E818600D6E70A /* TutoCSS.swift */; };
+		F1B30ED2290E849900D6E70A /* TutoCSSDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B30ED1290E849900D6E70A /* TutoCSSDetailView.swift */; };
+		F1B355DC29000910001EC206 /* TutoPhotoshop.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B355DB29000910001EC206 /* TutoPhotoshop.swift */; };
+		F1B7AB45292E991300A2820A /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B7AB43292E991300A2820A /* Home.swift */; };
+		F1B7AB46292E991300A2820A /* TaskModelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B7AB44292E991300A2820A /* TaskModelView.swift */; };
+		F1B7AB6D292ED50500A2820A /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B7AB6C292ED50500A2820A /* Network.swift */; };
+		F1B7AB6F292ED5AD00A2820A /* Edt.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1B7AB6E292ED5AD00A2820A /* Edt.swift */; };
+		F1D80238290EEC440013625E /* ContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1D80237290EEC440013625E /* ContactView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F10241AB292E9792000A008B /* TutoAv.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutoAv.swift; sourceTree = "<group>"; };
+		F1208AF2290A8F3E00B11A13 /* TutoPDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutoPDetailView.swift; sourceTree = "<group>"; };
+		F13138C22926724B0076D9F9 /* CreditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreditView.swift; sourceTree = "<group>"; };
 		F14DA8D928FC56BD0011A411 /* Le Guide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Le Guide.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F14DA8DC28FC56BD0011A411 /* Le_GuideApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Le_GuideApp.swift; sourceTree = "<group>"; };
 		F14DA8DE28FC56BD0011A411 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F14DA8E028FC56BE0011A411 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F14DA8E328FC56BE0011A411 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F14DA8EA28FC5E010011A411 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		F14DA8EC28FC5E230011A411 /* TutoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutoView.swift; sourceTree = "<group>"; };
+		F14DA8EE28FC5E4F0011A411 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		F14DA8F028FC62620011A411 /* News.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = News.swift; sourceTree = "<group>"; };
+		F14DA8F228FC66750011A411 /* NewsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailView.swift; sourceTree = "<group>"; };
+		F1822A442914073400260A8B /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		F1822A4F2914204A00260A8B /* GroupsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GroupsView.swift; sourceTree = "<group>"; };
+		F18444FC29028AF1008E3324 /* RessourceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RessourceView.swift; sourceTree = "<group>"; };
+		F1B30ECF290E818600D6E70A /* TutoCSS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutoCSS.swift; sourceTree = "<group>"; };
+		F1B30ED1290E849900D6E70A /* TutoCSSDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutoCSSDetailView.swift; sourceTree = "<group>"; };
+		F1B355DB29000910001EC206 /* TutoPhotoshop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutoPhotoshop.swift; sourceTree = "<group>"; };
+		F1B7AB43292E991300A2820A /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		F1B7AB44292E991300A2820A /* TaskModelView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskModelView.swift; sourceTree = "<group>"; };
+		F1B7AB6C292ED50500A2820A /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
+		F1B7AB6E292ED5AD00A2820A /* Edt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Edt.swift; sourceTree = "<group>"; };
+		F1D80237290EEC440013625E /* ContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +91,11 @@
 			children = (
 				F14DA8DC28FC56BD0011A411 /* Le_GuideApp.swift */,
 				F14DA8DE28FC56BD0011A411 /* ContentView.swift */,
+				F14DA8EA28FC5E010011A411 /* HomeView.swift */,
+				F1B355DD29000917001EC206 /* News */,
+				F1B355DE29000925001EC206 /* Tuto */,
+				F1822A4E29141F9F00260A8B /* Emplois du temps */,
+				F18444FE29028B72008E3324 /* Ressource */,
 				F14DA8E028FC56BE0011A411 /* Assets.xcassets */,
 				F14DA8E228FC56BE0011A411 /* Preview Content */,
 			);
@@ -65,6 +108,60 @@
 				F14DA8E328FC56BE0011A411 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F1822A43291406F500260A8B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				F1822A442914073400260A8B /* Task.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		F1822A4E29141F9F00260A8B /* Emplois du temps */ = {
+			isa = PBXGroup;
+			children = (
+				F1822A4F2914204A00260A8B /* GroupsView.swift */,
+				F1B7AB43292E991300A2820A /* Home.swift */,
+				F1B7AB44292E991300A2820A /* TaskModelView.swift */,
+				F1822A43291406F500260A8B /* Model */,
+				F1B7AB6C292ED50500A2820A /* Network.swift */,
+				F1B7AB6E292ED5AD00A2820A /* Edt.swift */,
+			);
+			path = "Emplois du temps";
+			sourceTree = "<group>";
+		};
+		F18444FE29028B72008E3324 /* Ressource */ = {
+			isa = PBXGroup;
+			children = (
+				F18444FC29028AF1008E3324 /* RessourceView.swift */,
+				F1D80237290EEC440013625E /* ContactView.swift */,
+				F13138C22926724B0076D9F9 /* CreditView.swift */,
+			);
+			path = Ressource;
+			sourceTree = "<group>";
+		};
+		F1B355DD29000917001EC206 /* News */ = {
+			isa = PBXGroup;
+			children = (
+				F14DA8F028FC62620011A411 /* News.swift */,
+				F14DA8EE28FC5E4F0011A411 /* NewsView.swift */,
+				F14DA8F228FC66750011A411 /* NewsDetailView.swift */,
+			);
+			path = News;
+			sourceTree = "<group>";
+		};
+		F1B355DE29000925001EC206 /* Tuto */ = {
+			isa = PBXGroup;
+			children = (
+				F1B355DB29000910001EC206 /* TutoPhotoshop.swift */,
+				F1B30ECF290E818600D6E70A /* TutoCSS.swift */,
+				F14DA8EC28FC5E230011A411 /* TutoView.swift */,
+				F1208AF2290A8F3E00B11A13 /* TutoPDetailView.swift */,
+				F1B30ED1290E849900D6E70A /* TutoCSSDetailView.swift */,
+				F10241AB292E9792000A008B /* TutoAv.swift */,
+			);
+			path = Tuto;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +234,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1822A502914204A00260A8B /* GroupsView.swift in Sources */,
+				F1822A452914073400260A8B /* Task.swift in Sources */,
+				F1208AF3290A8F3E00B11A13 /* TutoPDetailView.swift in Sources */,
+				F14DA8F128FC62620011A411 /* News.swift in Sources */,
+				F1B355DC29000910001EC206 /* TutoPhotoshop.swift in Sources */,
+				F14DA8ED28FC5E230011A411 /* TutoView.swift in Sources */,
+				F1D80238290EEC440013625E /* ContactView.swift in Sources */,
+				F13138C32926724B0076D9F9 /* CreditView.swift in Sources */,
+				F14DA8EB28FC5E010011A411 /* HomeView.swift in Sources */,
+				F14DA8F328FC66750011A411 /* NewsDetailView.swift in Sources */,
+				F1B7AB6D292ED50500A2820A /* Network.swift in Sources */,
+				F1B7AB46292E991300A2820A /* TaskModelView.swift in Sources */,
+				F1B7AB6F292ED5AD00A2820A /* Edt.swift in Sources */,
+				F10241AC292E9792000A008B /* TutoAv.swift in Sources */,
 				F14DA8DF28FC56BD0011A411 /* ContentView.swift in Sources */,
+				F14DA8EF28FC5E4F0011A411 /* NewsView.swift in Sources */,
 				F14DA8DD28FC56BD0011A411 /* Le_GuideApp.swift in Sources */,
+				F1B30ED2290E849900D6E70A /* TutoCSSDetailView.swift in Sources */,
+				F1B30ED0290E818600D6E70A /* TutoCSS.swift in Sources */,
+				F1B7AB45292E991300A2820A /* Home.swift in Sources */,
+				F18444FD29028AF1008E3324 /* RessourceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,6 +314,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -252,6 +369,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				NEW_SETTING = "";
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
@@ -264,23 +382,31 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Le Guide/Preview Content\"";
+				DEVELOPMENT_TEAM = 65V3X2DV79;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "Tiago.Le-Guide";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -292,23 +418,31 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Le Guide/Preview Content\"";
+				DEVELOPMENT_TEAM = 65V3X2DV79;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UIStatusBarStyle = "";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 7.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "Tiago.Le-Guide";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
