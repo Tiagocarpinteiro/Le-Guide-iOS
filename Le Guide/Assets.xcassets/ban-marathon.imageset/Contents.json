@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "fond2.png",
+      "filename" : "banniere marathon du web.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "fond2 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "fond2 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

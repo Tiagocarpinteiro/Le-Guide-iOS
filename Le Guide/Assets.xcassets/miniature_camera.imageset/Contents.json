@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "minia inté.png",
+      "filename" : "miniature caméra.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "minia inté 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "minia inté 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

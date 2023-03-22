@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "fond4.png",
+      "filename" : "banniere nuitmmi.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "fond4 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "fond4 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
